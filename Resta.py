@@ -1,1 +1,0 @@
-print("Se restan dos numero")
